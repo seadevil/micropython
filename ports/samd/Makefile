@@ -1,3 +1,5 @@
+BOARD := SAMD21_CNANO
+
 # Select the board to build for:
 ifdef BOARD_DIR
 # Custom board path - remove trailing slash and get the final component of
